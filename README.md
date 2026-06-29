@@ -30,9 +30,9 @@ O ficheiro `MindHealthcodigo.sql` é o script pronto a rodar que cria toda a est
 
 Antes de começar a escrever o código, passámos bastante tempo a desenhar o fluxo das telas (UX/UI) para garantir que o sistema fosse super intuitivo. Pode conferir os nossos principais fluxos clicando nos links abaixo:
 
-* 🧠 **[Visualizar Tela: Registo de Humor com IA](./Imagens/registro_humor_ia.jpg)** — *Interface onde o utilizador anota como se sente e o sistema gera relatórios inteligentes sobre o seu bem-estar emocional.*
-* 📅 **[Visualizar Tela: Escolha de Consultas e Horários](./Imagens/agendamentos_disponiveis.jpg)** — *Painel limpo para o paciente pesquisar profissionais e ver horários livres em tempo real.*
-* ⌚ **[Visualizar Tela: Integração com Smartware](./Imagens/perfil_smartware.jpg)** — *Perfil conectado a dispositivos vestíveis para cruzar dados de saúde física com a saúde mental.*
+* 🧠 **[Visualizar Tela: Registo de Humor com IA](./imagens/registro_humor_ia.jpeg)** — *Interface onde o utilizador anota como se sente e o sistema gera relatórios inteligentes sobre o seu bem-estar emocional.*
+* 📅 **[Visualizar Tela: Escolha de Consultas e Horários](./imagens/agendamentos_disponiveis.jpeg)** — *Painel limpo para o paciente pesquisar profissionais e ver horários livres em tempo real.*
+* ⌚ **[Visualizar Tela: Integração com Smartware](./imagens/perfil_smartware.jpeg)** — *Perfil conectado a dispositivos vestíveis para cruzar dados de saúde física com a saúde mental.*
 ---
 
 ## 👥 Quem desenvolveu o projeto
