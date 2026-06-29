@@ -1,6 +1,6 @@
-# MindHealth
+# Mind&Health 🧠💼
 
-O **MindHealth** nasceu como um projeto na faculdade com um objetivo bem claro: cuidar da saúde de forma completa, integrando o bem-estar mental e físico numa única plataforma. A ideia é conectar pessoas que precisam de apoio a profissionais da área (como psicólogos e psiquiatras) e, ao mesmo tempo, dar ferramentas para o dia a dia, como monitorização de humor com IA e ligação com smartwatches.
+O **Mind&Health** nasceu como um projeto na faculdade com um objetivo bem claro: cuidar da saúde de forma completa, integrando o bem-estar mental e físico numa única plataforma. A ideia é conectar pessoas que precisam de apoio a profissionais da área (como psicólogos e psiquiatras) e, ao mesmo tempo, dar ferramentas para o dia a dia, como monitorização de humor com IA e ligação com smartwatches.
 
 Este repositório guarda a "inteligência" por trás disso tudo: a **modelação do nosso banco de dados em SQL** e toda a parte estrutural de **Engenharia de Software**.
 
