@@ -32,7 +32,7 @@ Antes de começar a escrever o código, passámos bastante tempo a desenhar o fl
 
 ### 🧠 1. Registo de Humor com Inteligência Artificial
 Aqui é onde o utilizador anota como se sente no dia a dia. O sistema usa IA para analisar estes desabafos e gerar relatórios inteligentes sobre a evolução do bem-estar emocional.
-[![Registo de Humor e IA](Imagens/registro_humor_ia.jpg)](Imagens/registro_humor_ia.jpg)
+[![Registo de Humor e IA](imagens/agendamentos_disponiveis.jpeg)
 
 ### 📅 2. Escolha de Consultas e Horários
 Um painel limpo e direto para o paciente pesquisar psicólogos ou psiquiatras e ver, em tempo real, quais os horários que estão livres para marcação.
