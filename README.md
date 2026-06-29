@@ -32,7 +32,7 @@ Antes de começar a escrever o código, passámos bastante tempo a desenhar o fl
 
 * **[Visualizar Tela: Registo de Humor com IA](./imagens/registro_humor_ia.jpeg)** — *Interface onde o utilizador anota como se sente e o sistema gera relatórios inteligentes sobre o seu bem-estar emocional.*
 * **[Visualizar Tela: Escolha de Consultas e Horários](./imagens/agendamentos_disponiveis.jpeg)** — *Painel limpo para o paciente pesquisar profissionais e ver horários livres em tempo real.*
-* **[Visualizar Tela: Integração com Smartware](./imagens/perfil_smartwatches.jpeg)** — *Perfil conectado a dispositivos vestíveis para cruzar dados de saúde física com a saúde mental.*
+* **[Visualizar Tela: Integração com Smartwatches](./imagens/perfil_smartwatches.jpeg)** — *Perfil conectado a dispositivos vestíveis para cruzar dados de saúde física com a saúde mental.*
 
 ---
 
