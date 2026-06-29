@@ -28,19 +28,11 @@ O ficheiro `MindHealthcodigo.sql` é o script pronto a rodar que cria toda a est
 
 ## 📊 A Cara do Projeto (Wireframes)
 
-Antes de começar a escrever o código, passámos bastante tempo a desenhar o fluxo das telas (UX/UI) para garantir que o sistema fosse super intuitivo. Das várias telas que criámos, estas três são as que melhor mostram a inovação do MindHealth:
+Antes de começar a escrever o código, passámos bastante tempo a desenhar o fluxo das telas para garantir que o sistema fosse super intuitivo. Pode conferir os nossos principais fluxos clicando nos links abaixo:
 
-###  1. Registo de Humor com Inteligência Artificial
-Aqui é onde o utilizador anota como se sente no dia a dia. O sistema usa IA para analisar estes desabafos e gerar relatórios inteligentes sobre a evolução do bem-estar emocional.
-![Registo de Humor e IA](imagens/registro_humor_ia.jpeg)
-
-###  2. Escolha de Consultas e Horários
-Um painel limpo e direto para o paciente pesquisar psicólogos ou psiquiatras e ver, em tempo real, quais os horários que estão livres para marcação.
-![Agendamento Disponíveis](imagens/agendamentos_disponiveis.jpeg)
-
-###  3. Integração com Relógios Inteligentes (Smartware)
-O perfil do utilizador vai além das consultas: conecta-se a dispositivos vestíveis para cruzar dados de saúde física (como batimentos cardíacos ou sono) com a saúde mental.
-![Perfil e Smartware](imagens/perfil_smartware.jpeg)
+* **[Visualizar Tela: Registo de Humor com IA](./imagens/registro_humor_ia.jpeg)** — *Interface onde o utilizador anota como se sente e o sistema gera relatórios inteligentes sobre o seu bem-estar emocional.*
+* **[Visualizar Tela: Escolha de Consultas e Horários](./imagens/agendamentos_disponiveis.jpeg)** — *Painel limpo para o paciente pesquisar profissionais e ver horários livres em tempo real.*
+* **[Visualizar Tela: Integração com Smartware](./imagens/perfil_smartware.jpeg)** — *Perfil conectado a dispositivos vestíveis para cruzar dados de saúde física com a saúde mental.*
 
 ---
 
