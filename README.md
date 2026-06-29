@@ -7,7 +7,7 @@ Este repositório guarda a "inteligência" por trás disso tudo: a **modelação
 
 ## 🚀 Como o sistema funciona na prática?
 
-Desenhámos o projeto a pensar no percurso real do utilizador, dividindo a lógica em três grandes blocos:
+Desenhamos o projeto a pensar no percurso real do utilizador, dividindo a lógica em três grandes blocos:
 1. **Segurança e Perfis:** Uma estrutura para que pacientes, médicos e administradores naveguem na plataforma com total privacidade e perfis bem definidos.
 2. **Consultas sem complicação:** Toda a lógica para procurar profissionais de saúde, ver horários disponíveis e agendar ou desmarcar consultas de forma simples.
 3. **Apoio no dia a dia:** Funcionalidades para que o paciente registe como se sente entre as consultas, gerando um histórico emocional completo.
@@ -19,7 +19,7 @@ Desenhámos o projeto a pensar no percurso real do utilizador, dividindo a lógi
 O ficheiro `MindHealthcodigo.sql` é o script pronto a rodar que cria toda a estrutura da nossa base de dados relacional. Preocupámo-nos muito em normalizar as tabelas para garantir que o sistema seja rápido e que os dados fiquem seguros e bem relacionados.
 
 ### O que encontras modelado no código:
-* **Controlo de Acesso:** Tabelas de `usuarios`, `profissionais` e dados de segurança.
+* **Controle de Acesso:** Tabelas de `usuarios`, `profissionais` e dados de segurança.
 * **Coração do Negócio:** Toda a parte de `agendamentos`, `consultas` e o fluxo de `pagamentos`.
 * **Acompanhamento:** Histórico de sentimentos (`humor_registros`), `metas_usuario` e áreas de `conteudos`.
 * **Interação:** Sistema de `notificacoes`, `comentarios`, `posts`, `mensagens` no chat e `avaliacoes` dos médicos.
